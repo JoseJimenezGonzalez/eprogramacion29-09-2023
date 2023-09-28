@@ -6,9 +6,7 @@ fun main(){
     val temperaturaFahrenheit = -459.0
 
     println("$temperaturaCelsius grados celsius equivalen a ${celsiusToFahrenheit(temperaturaCelsius)} grados fahrenheit")
-
     println("$temperaturaFahrenheit grados fahrenheit equivalen a ${fahrenheitToCelsius(temperaturaFahrenheit)} grados celsius")
-
 
 }
 

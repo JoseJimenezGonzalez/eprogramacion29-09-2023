@@ -15,5 +15,5 @@ fun fahrenheitToCelsius(tempFahrenheit: Double): Double{
 }
 
 fun celsiusToFahrenheit(tempCelsius: Double): Double{
-    return tempCelsius * 1.8 +32
+    return tempCelsius * 1.8 + 32
 }
